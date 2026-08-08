@@ -10,4 +10,5 @@ Documented and published automatically with leetgit.
 | 11 | Container With Most Water | Medium | Array, Two Pointers, Greedy | [link](problems/11-container-with-most-water/) |
 | 42 | Trapping Rain Water | Hard | Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack | [link](problems/42-trapping-rain-water/) |
 | 53 | Maximum Subarray | Medium | Array, Divide and Conquer, Dynamic Programming | [link](problems/53-maximum-subarray/) |
+| 238 | Product of Array Except Self | Medium | Array, Prefix Sum | [link](problems/238-product-of-array-except-self/) |
 <!-- LEETGIT:TABLE:END -->
