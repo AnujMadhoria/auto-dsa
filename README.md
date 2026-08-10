@@ -12,4 +12,5 @@ Documented and published automatically with leetgit.
 | 53 | Maximum Subarray | Medium | Array, Divide and Conquer, Dynamic Programming | [link](problems/53-maximum-subarray/) |
 | 238 | Product of Array Except Self | Medium | Array, Prefix Sum | [link](problems/238-product-of-array-except-self/) |
 | 3 | Longest Substring Without Repeating Characters | Medium | Hash Table, String, Sliding Window | [link](problems/3-longest-substring-without-repeating-characters/) |
+| 76 | Minimum Window Substring | Hard | Hash Table, String, Sliding Window | [link](problems/76-minimum-window-substring/) |
 <!-- LEETGIT:TABLE:END -->
