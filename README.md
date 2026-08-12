@@ -15,4 +15,5 @@ Documented and published automatically with leetgit.
 | 76 | Minimum Window Substring | Hard | Hash Table, String, Sliding Window | [link](problems/76-minimum-window-substring/) |
 | 75 | Sort Colors | Medium | Array, Two Pointers, Sorting, Quicksort, Bubble Sort | [link](problems/75-sort-colors/) |
 | 56 | Merge Intervals | Medium | Array, Sorting, Quicksort | [link](problems/56-merge-intervals/) |
+| 242 | Valid Anagram | Easy | Hash Table, String, Sorting | [link](problems/242-valid-anagram/) |
 <!-- LEETGIT:TABLE:END -->
