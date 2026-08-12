@@ -16,4 +16,5 @@ Documented and published automatically with leetgit.
 | 75 | Sort Colors | Medium | Array, Two Pointers, Sorting, Quicksort, Bubble Sort | [link](problems/75-sort-colors/) |
 | 56 | Merge Intervals | Medium | Array, Sorting, Quicksort | [link](problems/56-merge-intervals/) |
 | 242 | Valid Anagram | Easy | Hash Table, String, Sorting | [link](problems/242-valid-anagram/) |
+| 125 | Valid Palindrome | Easy | Two Pointers, String | [link](problems/125-valid-palindrome/) |
 <!-- LEETGIT:TABLE:END -->
