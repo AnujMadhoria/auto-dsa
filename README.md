@@ -17,4 +17,5 @@ Documented and published automatically with leetgit.
 | 56 | Merge Intervals | Medium | Array, Sorting, Quicksort | [link](problems/56-merge-intervals/) |
 | 242 | Valid Anagram | Easy | Hash Table, String, Sorting | [link](problems/242-valid-anagram/) |
 | 125 | Valid Palindrome | Easy | Two Pointers, String | [link](problems/125-valid-palindrome/) |
+| 49 | Group Anagrams | Medium | Array, Hash Table, String, Sorting | [link](problems/49-group-anagrams/) |
 <!-- LEETGIT:TABLE:END -->
