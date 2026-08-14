@@ -18,4 +18,5 @@ Documented and published automatically with leetgit.
 | 242 | Valid Anagram | Easy | Hash Table, String, Sorting | [link](problems/242-valid-anagram/) |
 | 125 | Valid Palindrome | Easy | Two Pointers, String | [link](problems/125-valid-palindrome/) |
 | 49 | Group Anagrams | Medium | Array, Hash Table, String, Sorting | [link](problems/49-group-anagrams/) |
+| 560 | Subarray Sum Equals K | Medium | Array, Hash Table, Prefix Sum | [link](problems/560-subarray-sum-equals-k/) |
 <!-- LEETGIT:TABLE:END -->
