@@ -19,4 +19,5 @@ Documented and published automatically with leetgit.
 | 125 | Valid Palindrome | Easy | Two Pointers, String | [link](problems/125-valid-palindrome/) |
 | 49 | Group Anagrams | Medium | Array, Hash Table, String, Sorting | [link](problems/49-group-anagrams/) |
 | 560 | Subarray Sum Equals K | Medium | Array, Hash Table, Prefix Sum | [link](problems/560-subarray-sum-equals-k/) |
+| 128 | Longest Consecutive Sequence | Medium | Array, Hash Table, Union-Find | [link](problems/128-longest-consecutive-sequence/) |
 <!-- LEETGIT:TABLE:END -->
