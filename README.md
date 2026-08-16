@@ -21,4 +21,5 @@ Documented and published automatically with leetgit.
 | 560 | Subarray Sum Equals K | Medium | Array, Hash Table, Prefix Sum | [link](problems/560-subarray-sum-equals-k/) |
 | 128 | Longest Consecutive Sequence | Medium | Array, Hash Table, Union-Find | [link](problems/128-longest-consecutive-sequence/) |
 | 347 | Top K Frequent Elements | Medium | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect | [link](problems/347-top-k-frequent-elements/) |
+| 217 | Contains Duplicate | Easy | Array, Hash Table, Sorting | [link](problems/217-contains-duplicate/) |
 <!-- LEETGIT:TABLE:END -->
