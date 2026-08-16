@@ -20,4 +20,5 @@ Documented and published automatically with leetgit.
 | 49 | Group Anagrams | Medium | Array, Hash Table, String, Sorting | [link](problems/49-group-anagrams/) |
 | 560 | Subarray Sum Equals K | Medium | Array, Hash Table, Prefix Sum | [link](problems/560-subarray-sum-equals-k/) |
 | 128 | Longest Consecutive Sequence | Medium | Array, Hash Table, Union-Find | [link](problems/128-longest-consecutive-sequence/) |
+| 347 | Top K Frequent Elements | Medium | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect | [link](problems/347-top-k-frequent-elements/) |
 <!-- LEETGIT:TABLE:END -->
