@@ -22,4 +22,5 @@ Documented and published automatically with leetgit.
 | 128 | Longest Consecutive Sequence | Medium | Array, Hash Table, Union-Find | [link](problems/128-longest-consecutive-sequence/) |
 | 347 | Top K Frequent Elements | Medium | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect | [link](problems/347-top-k-frequent-elements/) |
 | 217 | Contains Duplicate | Easy | Array, Hash Table, Sorting | [link](problems/217-contains-duplicate/) |
+| 206 | Reverse Linked List | Easy | Linked List, Recursion | [link](problems/206-reverse-linked-list/) |
 <!-- LEETGIT:TABLE:END -->
