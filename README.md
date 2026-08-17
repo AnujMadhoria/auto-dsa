@@ -24,4 +24,5 @@ Documented and published automatically with leetgit.
 | 217 | Contains Duplicate | Easy | Array, Hash Table, Sorting | [link](problems/217-contains-duplicate/) |
 | 206 | Reverse Linked List | Easy | Linked List, Recursion | [link](problems/206-reverse-linked-list/) |
 | 141 | Linked List Cycle | Easy | Hash Table, Linked List, Two Pointers, Floyd's Cycle Finding Algorithm | [link](problems/141-linked-list-cycle/) |
+| 142 | Linked List Cycle II | Medium | Hash Table, Linked List, Two Pointers, Floyd's Cycle Finding Algorithm | [link](problems/142-linked-list-cycle-ii/) |
 <!-- LEETGIT:TABLE:END -->
