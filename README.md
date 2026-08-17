@@ -23,4 +23,5 @@ Documented and published automatically with leetgit.
 | 347 | Top K Frequent Elements | Medium | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect | [link](problems/347-top-k-frequent-elements/) |
 | 217 | Contains Duplicate | Easy | Array, Hash Table, Sorting | [link](problems/217-contains-duplicate/) |
 | 206 | Reverse Linked List | Easy | Linked List, Recursion | [link](problems/206-reverse-linked-list/) |
+| 141 | Linked List Cycle | Easy | Hash Table, Linked List, Two Pointers, Floyd's Cycle Finding Algorithm | [link](problems/141-linked-list-cycle/) |
 <!-- LEETGIT:TABLE:END -->
