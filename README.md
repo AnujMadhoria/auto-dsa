@@ -25,4 +25,5 @@ Documented and published automatically with leetgit.
 | 206 | Reverse Linked List | Easy | Linked List, Recursion | [link](problems/206-reverse-linked-list/) |
 | 141 | Linked List Cycle | Easy | Hash Table, Linked List, Two Pointers, Floyd's Cycle Finding Algorithm | [link](problems/141-linked-list-cycle/) |
 | 142 | Linked List Cycle II | Medium | Hash Table, Linked List, Two Pointers, Floyd's Cycle Finding Algorithm | [link](problems/142-linked-list-cycle-ii/) |
+| 876 | Middle of the Linked List | Easy | Linked List, Two Pointers | [link](problems/876-middle-of-the-linked-list/) |
 <!-- LEETGIT:TABLE:END -->
