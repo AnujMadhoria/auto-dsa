@@ -30,4 +30,5 @@ Documented and published automatically with leetgit.
 | 19 | Remove Nth Node From End of List | Medium | Linked List, Two Pointers | [link](problems/19-remove-nth-node-from-end-of-list/) |
 | 2 | Add Two Numbers | Medium | Linked List, Math, Recursion | [link](problems/2-add-two-numbers/) |
 | 20 | Valid Parentheses | Easy | String, Stack, Bracket Sequences | [link](problems/20-valid-parentheses/) |
+| 739 | Daily Temperatures | Medium | Array, Stack, Monotonic Stack | [link](problems/739-daily-temperatures/) |
 <!-- LEETGIT:TABLE:END -->
