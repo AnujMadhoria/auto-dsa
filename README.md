@@ -31,4 +31,5 @@ Documented and published automatically with leetgit.
 | 2 | Add Two Numbers | Medium | Linked List, Math, Recursion | [link](problems/2-add-two-numbers/) |
 | 20 | Valid Parentheses | Easy | String, Stack, Bracket Sequences | [link](problems/20-valid-parentheses/) |
 | 739 | Daily Temperatures | Medium | Array, Stack, Monotonic Stack | [link](problems/739-daily-temperatures/) |
+| 704 | Binary Search | Easy | Array, Binary Search | [link](problems/704-binary-search/) |
 <!-- LEETGIT:TABLE:END -->
